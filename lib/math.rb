@@ -12,7 +12,7 @@ end
 
 def division(num1, num2)
   puts 50 / 2
-  
+  sum = 25
 
 end
 
