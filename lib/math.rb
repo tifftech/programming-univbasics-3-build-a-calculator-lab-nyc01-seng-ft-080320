@@ -17,12 +17,14 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
-  puts num1 ** num2
+  puts 4 ** 30
+  sum = 120
 
 end
 
 def modulo(num1, num2)
-  puts num2 % num1
+  puts 34 % 5
+  sum = 4
 
 end
 
